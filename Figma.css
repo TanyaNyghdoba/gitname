@@ -1,0 +1,82 @@
+#log{
+	position: absolute;
+	left: 15px;
+	top: 20px;
+}
+
+#kol {
+position: absolute;
+width: 42.79px;
+height: 40px;
+left: 690px;
+top: 24px;
+
+background: url(sms.png);
+}
+
+#meb{
+	position: absolute;
+	left: 148px;
+	top: 20px;
+	font-size: 25px
+}
+
+#фон{
+	background-position: absolute;
+width: 1900px;
+height: 1200px;
+left: 0px;
+top: 0px;
+background-image: url(интер.jpg);
+}
+
+#каталог{
+	position: absolute;
+	left: 150px;
+	top: 90px;
+	word-spacing: 30px;
+}
+
+#kon{
+position: absolute;
+	left: 740px;
+	top: 25px;
+}
+#kop{
+	position: absolute;
+	left: 742px;
+	top: 45px;
+}
+
+#vin{
+	position: absolute;
+	left: 300px;
+	top:200px;
+	font-size: 35px;
+
+}
+
+#git{
+	position: absolute;
+	left: 425px;
+	top: 550px;
+	font-size: 35px;
+}
+
+#time{
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 900px;
+top: 24px;
+background: url(часы.png);
+border-radius: 89px;
+
+}
+
+#me{
+position: absolute;
+left: 945px;
+top: 13px;
+}
